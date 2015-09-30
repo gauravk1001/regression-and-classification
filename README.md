@@ -1,4 +1,4 @@
-# regression-and-classification
+# regression-and-classification (Python, scikit-learn, Machine Learning)
 
 This project experiments with:  
 Logistic Regression  
